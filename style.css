@@ -1,0 +1,31 @@
+img {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    padding: 80px;
+    color: rgb(0, 0, 0);
+}
+
+nav a {
+    color: black;
+    font-size: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+.menu_icons {
+    width: 200px;
+    height: auto;
+}
+
+* {
+    background-color:  rgb(220, 238, 238);
+}
+
+div {
+    padding: 50px;
+}
