@@ -1,31 +1,44 @@
+#header {
+    text-align: center;
+    display:block
+}
+
 img {
     width: 500px;
     height: auto;
 }
 
 h1 {
-    padding: 80px;
+    padding: 30px;
     color: rgb(0, 0, 0);
 }
 
-nav a {
+a {
     color: black;
     font-size: 50px;
 }
 
-.center {
-    text-align: center;
-}
 
 .menu_icons {
     width: 200px;
     height: auto;
+    max-width: 80%;
 }
 
 * {
     background-color:  rgb(220, 238, 238);
+
 }
 
 div {
-    padding: 50px;
+    margin: 40px;
+    block-size: 80%;
+}
+
+.pages-container {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
 }
